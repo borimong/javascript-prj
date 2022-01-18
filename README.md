@@ -1,3 +1,3 @@
-##Techonology
-###**JavaScript**
+##Techonology##
+###**JavaScript**###
  
